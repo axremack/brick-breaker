@@ -1,0 +1,12 @@
+body {
+ padding: 0px;
+ margin: 0px;
+ background-color: #DDDDDD;
+}
+
+#scene {
+ /*pointer-events: none;*/
+ /*overflow: hidden;*/
+
+ background-color: #FFFFFF;
+}
